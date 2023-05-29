@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    box-sizing: border-box;
+    /* background: #f1f1f1; */
+    background:linear-gradient(148deg, #FFAC00 0%, #C582EE 100%);
+    font-family: 'Quicksand', sans-serif;
+}
+.container {
+    display: grid;
+    height: 100vh;
+}
+.login-box {
+    height: 280px;
+    width: 280px;
+    margin: auto;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 5px 8px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+}
+input[type="text"] {
+    border: none;
+    outline: none;
+    border-bottom: 4px solid #152ba8;
+    background: #f2f2f2;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+input[type="email"] {
+    border: none;
+    outline: none;;
+    border-bottom: 4px solid #152ba8;   
+    background: #f2f2f2;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+input[type="password"] {
+    border: none;
+    outline: none;
+    border-bottom: 4px solid #152ba8;
+    background: #f2f2f2;
+    width: 100%;
+    height: 40px;
+}
+#submit-btn {
+    width: 100%;
+    background: #152ba8;
+    color: #fff;
+    padding: 12px 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+#submit-btn:hover {
+    background: #354ee0;
+}
+#footer {
+    padding: 25px 0;
+    text-align: center;
+}
