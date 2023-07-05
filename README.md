@@ -1,2 +1,12 @@
-# work-ui-loginpage
-Este proyecto contiene una plantilla HTML/CSS de una pagina de login.
+# Work UI Login Page
+
+![Static Badge](https://img.shields.io/badge/Licencia-MIT-green)
+![Static Badge](https://img.shields.io/badge/Estado-en_desarrollo-blue)
+![Static Badge](https://img.shields.io/badge/Versión-v1.0.0-green)
+
+![Imagen de proyecto](images/ui-work-login.PNG)
+
+## Descripción:
+- Este proyecto se diseño utilizando las tecnologias HTML y CSS.
+
+![tecnologias utilizadas](images/tech-tag.png)
